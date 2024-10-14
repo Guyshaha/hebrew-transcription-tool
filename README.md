@@ -1,6 +1,6 @@
 # Hebrew Audio Transcriber
 
-This project provides a Python script that transcribes Hebrew audio files into text. The script will skip transcribing files that already have a corresponding text file with the same name.
+This Python script transcribes Hebrew audio files into text.
 
 ## Features
 - Supports `.wav`, `.mp3`, and `.flac` audio formats.
